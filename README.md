@@ -19,12 +19,13 @@ The product team expect that the framework is not website specific to facilite i
 The Framework must be used to automate a login journey for https://www.skyvegas.com on a mobile device. 
 
 Your tests must demonstrate:
-1. Loading the homepage of Sky Vegas. 
-2. Open the Account bar.
-3. Interact with the Account bar.
-4. Automation of the login form.
-5. Verify that the account has logged in to the portal. 
-6. Log the account out.
+
+    1. Loading the homepage of Sky Vegas. 
+    2. Open the Account bar.
+    3. Interact with the Account bar.
+    4. Automation of the login form.
+    5. Verify that the account has logged in to the portal. 
+    6. Log the account out.
 
 * Extra credit: 2+ additional tests for journeys of your choice. 
 
