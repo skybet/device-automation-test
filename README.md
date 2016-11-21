@@ -33,7 +33,8 @@ Extra credit: 2+ additional tests for journeys of your choice.
  
 A bundled/archived repository showing your commit history. Git is preferred, but any VCS is fine. Git example:
 
-git bundle create <yourname>.bundle --all --branches
+	git bundle create <yourname>.bundle --all --branches
+
 A covering note explaining the technology choices you have made.
 
 Any instructions required to run your solution
